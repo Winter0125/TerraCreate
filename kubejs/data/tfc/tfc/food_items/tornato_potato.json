@@ -1,0 +1,10 @@
+{
+	"__comment__": "This file was automatically created by mcresources",
+	"ingredient": {
+		"item": "kubejs:tornato_potato"
+	},
+	"hunger": 2,
+	"saturation": 0,
+	"decay_modifier": 2.5,
+	"grain": 0.5
+}

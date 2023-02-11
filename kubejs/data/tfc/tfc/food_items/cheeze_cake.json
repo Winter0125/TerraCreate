@@ -1,0 +1,11 @@
+{
+	"__comment__": "This file was automatically created by mcresources",
+	"ingredient": {
+		"item": "kubejs:cheeze_cake"
+	},
+	"hunger": 8,
+	"saturation": 4,
+	"decay_modifier": 2.0,
+	"grain": 2.0,
+    "diary": 2.0
+}
